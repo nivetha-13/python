@@ -1,1 +1,16 @@
+1- Calculate the Factorial: Write a program that calculates the factorial of a given number. 
+The factorial of a non-negative integer n is the product of all positive integers less than or equal to n.
 
+2- Check for Palindrome: Create a program that checks whether a given string is a palindrome or not. 
+A palindrome is a word, phrase, number, or other sequence of characters that reads the same forward and backward.
+
+3- Count the Vowels: Write a program that counts the number of vowels in a given string. Consider both uppercase and lowercase vowels.
+
+4- Find the Largest Number: Develop a program that finds the largest number in a list of integers.
+
+5- Reverse a String: Create a program that reverses a given string. For example, if the input is "Hello," the output should be "olleH."
+
+6- Check for Prime Numbers: Write a program that checks whether a given number is prime or not. 
+A prime number is a positive integer greater than 1 that has no positive divisors other than 1 and itself.
+
+7- Find the median: Develop a program that finds the median in a list of integers.
