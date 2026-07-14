@@ -1,1 +1,10 @@
-
+Python
+1. List vs Tuple vs Set vs Dictionary
+2. Deep Copy vs Shallow Copy
+3. *args and **kwargs usage
+4. Lambda, Map, Filter , Reduce
+5. Generators vs Iterators
+6. Decorators in Python
+7. Multithreading vs Multiprocessing
+8. Exception Handling Best Practices
+9. Memory Management & Garbage Collection
